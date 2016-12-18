@@ -1,0 +1,3 @@
+[submodule "pelican-bold"]
+	path = pelican-bold
+	url = https://github.com/icaoberg/pelican-bold.git
