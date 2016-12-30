@@ -3,6 +3,7 @@ Doritos and Walter Mercado
 
 :date: 2016-12-14 14:00
 :slug: walter_mercado
+:status: draft
 :authors: icaoberg
 :category: latinx
 :summary: Come bien...
