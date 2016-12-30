@@ -31,17 +31,13 @@ DEFAULT_PAGINATION = 5
 RELATIVE_URLS = True
 
 THEME = './pelican-bold'
-#THEME = './bulrush'
-JINJA_ENVIRONMENT = {
-    'extensions': ['webassets.ext.jinja2.AssetsExtension', 'jinja2.ext.with_'],
-}
 
 DISPLAY_CATEGORIES_ON_MENU = False
 
 STATIC_PATHS = ['extra', 'images', 'pdfs']
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['gallery', 'pelican_gist', 'pelican_youtube', 'assets']
+PLUGINS = ['gallery', 'pelican_gist', 'pelican_youtube', 'embed_tweet']
 
 GALLERY_PATH = 'images/gallery'
 PHOTO_EXIF_COPYRIGHT_AUTHOR = 'icaoberg AT andrew DOT cmu DOT edu'
@@ -51,6 +47,8 @@ RESPONSIVE_IMAGES = True
 FIGURE_NUMBERS = True
 
 TWITTER_USERNAME = 'icaoberg'
+
+COPYRIGHT = 'Copyright (c) 2006-2016 icaoberg AT cmu DOT edu'
 
 #FEED_ALL_RSS = 'feeds/all.rss.xml'
 #CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
