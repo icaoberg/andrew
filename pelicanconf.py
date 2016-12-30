@@ -9,7 +9,6 @@ SITEURL = 'http://www.andrew.cmu.edu/~icaoberg'
 PATH = 'content'
 
 TIMEZONE = 'America/New_York'
-COPYRIGHT = 'Barbie is pretty'
 
 DEFAULT_LANG = u'en'
 
