@@ -7,6 +7,8 @@ CellOrganizer
 :authors: icaoberg
 :summary: CellOrganizer
 
+|
+
 .. figure:: {filename}/images/cellorganizer.png
     :align: left
 

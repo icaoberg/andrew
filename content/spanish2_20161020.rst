@@ -1,0 +1,22 @@
+Jueves (La Oreja de Van Gogh)
+#############################
+
+:date: 2016-10-20 22:00
+:slug: spanish2_20161020
+:authors: icaoberg
+:category: language
+:tags: spanish, carnegie library, pittsburgh
+:summary: Spanish II is geared toward those who already have a basic understanding of Spanish and are interested in increasing proficiency
+
+.. figure:: {filename}/images/spanish2.png
+    :align: left
+
+Today we met at the Carnegie Library in Oakland for another session of Spanish II. Today we listened and interpreted the song “Jueves” from La Oreja de Van Gogh.
+
+.. youtube:: cQHkDCaa5Ac
+	:width: 560
+	:height: 315
+
+This is such a sad song that describes a romance on the day of `11M <https://es.wikipedia.org/wiki/Atentados_del_11_de_marzo_de_2004>`_.
+
+The document we used today can be found `here <https://docs.google.com/document/d/1kLx08OG4S7reeCY-DvGGrpxUhIQtbjahg8D08KgKNPk/pub>`_.

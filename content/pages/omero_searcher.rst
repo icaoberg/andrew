@@ -1,5 +1,5 @@
-searcher
-########
+OMERO.searcher
+##############
 
 :date: 2010-01-01 22:00
 :modified: 2016-12-12 22:00
@@ -7,10 +7,12 @@ searcher
 :authors: icaoberg
 :summary: OMERO.searcher
 
+|
+
 .. figure:: {filename}/images/omero_searcher.png
     :align: left
-    :width: 200px
-    :target: /images/omero_searcher.png
+    :width: 500px
+    :target: https://raw.githubusercontent.com/icaoberg/andrew/master/content/images/omero_searcher.png
 
 `OMERO.searcher <http://www.openmicroscopy.org/site/products/partner/omero.searcher>`_ is an extension of the OMERO.web client that provides the ability to search for images by their content (e.g., subcellular patterns) rather than just by their annotations. 
 

@@ -4,7 +4,8 @@ Little Women
 :date: 2016-12-26 22:00
 :slug: little_women
 :authors: icaoberg
-:category: software, python
+:tags: python
+:category: software
 :summary: Word cloud from the text of Little Women
 
 .. figure:: {filename}/images/little_women.png

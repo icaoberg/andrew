@@ -4,7 +4,8 @@ Murphy's Lab wordcloud
 :date: 2016-12-20 18:00
 :slug: scholarcloud_murphy_lab
 :authors: icaoberg
-:category: software, python
+:tags: python
+:category: software
 :summary: Scholarcloud for Murphy Lab from Google Scholar data
 
 .. figure:: {filename}/images/words001000.png

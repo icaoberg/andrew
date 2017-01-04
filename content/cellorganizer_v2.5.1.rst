@@ -4,6 +4,7 @@ Cellorganizer v2.5.1
 :date: 2016-08-01 18:00
 :slug: cellorganizer_v2.5.1
 :authors: icaoberg
+:tags: matlab
 :category: software
 :summary: CellOrganizer v2.5.1 Release!
 

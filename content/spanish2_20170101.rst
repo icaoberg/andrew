@@ -1,0 +1,23 @@
+Useful Books - Conversación y Controversia
+##########################################
+
+:date: 2017-01-01 22:00
+:slug: spanish2_20170101
+:authors: icaoberg
+:category: language
+:tags: spanish, carnegie library, pittsburgh
+:summary: Spanish II is geared toward those who already have a basic understanding of Spanish and are interested in increasing proficiency
+
+.. image:: {filename}/images/spanish2.png
+    :align: left
+    :target: https://www.carnegielibrary.org/?s=spanish+ii&search-location=Website
+
+The books I am using for `Spanish II <http://www.carnegielibrary.org/?s=spanish+ii&search-location=Website>`_ and in the `Pittsburgh Spanish Meetup Group <https://www.meetup.com/Pittsburgh-Spanish/>`_ are available in the `Carnegie Library of Pittsburgh <https://www.carnegielibrary.org/>`_ network.
+
+This is one of my favorite books, the topics are ridiculous. 
+
+.. image:: {filename}/images/gallery/useful_books/image06.jpg
+    :align: left
+    :target: https://librarycatalog.einetwork.net/Record/.b30909776/Home?searchId=46004470&recordIndex=1&page=1
+
+You can also find the book in `Amazon <https://www.amazon.com/Conversaci%C3%B3n-controversia-T%C3%B3picos-hoy-siempre/dp/0205696554>`_.

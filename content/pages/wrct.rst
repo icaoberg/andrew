@@ -6,6 +6,8 @@ Barrio Latino
 :authors: icaoberg
 :summary: Barrio Latino WRCT 88.3FM Pittsburgh in Carnegie Mellon University
 
+|
+
 .. figure:: {filename}/images/barrio_latino.jpg
     :align: left
     :target: http://www.barriolatinopgh.org/
