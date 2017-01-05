@@ -1,5 +1,5 @@
-Useful Books - Sol y Sombra
-###########################
+Sol y Sombra
+############
 
 :date: 2016-10-14 22:00
 :slug: spanish2_20161014

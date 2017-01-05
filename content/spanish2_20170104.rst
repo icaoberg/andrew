@@ -1,0 +1,15 @@
+Spanish II at Carnegie Library of Pittsburgh
+############################################
+
+:date: 2017-01-04 16:00
+:slug: spanish2_20170104
+:authors: icaoberg
+:category: language
+:tags: spanish, carnegie library, pittsburgh, session_i
+:summary: Spanish II is geared toward those who already have a basic understanding of Spanish and are interested in increasing proficiency
+
+.. image:: {filename}/images/spanish2.png
+    :align: left
+    :target: https://www.carnegielibrary.org/?s=spanish+ii&search-location=Website
+
+New year, new cycle! The January-April sessions starts today.

@@ -1,5 +1,5 @@
-Useful Books - Conversación y Controversia
-##########################################
+Conversación y Controversia
+###########################
 
 :date: 2017-01-01 22:00
 :slug: spanish2_20170101
