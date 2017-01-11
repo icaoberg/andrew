@@ -37,7 +37,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 STATIC_PATHS = ['extra', 'images', 'pdfs']
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['gallery', 'pelican_gist', 'pelican_youtube', 'embed_tweet']
+PLUGINS = ['gallery', 'pelican_gist', 'pelican_youtube', 'sitemap']
 
 GALLERY_PATH = 'images/gallery'
 PHOTO_EXIF_COPYRIGHT_AUTHOR = 'icaoberg AT andrew DOT cmu DOT edu'
@@ -54,3 +54,6 @@ COPYRIGHT = 'Copyright (c) 2006-2016 icaoberg AT cmu DOT edu'
 #CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 SITESUBTITLES = ('school of computer science', 'computational biology')
+
+# Configuration for the "sitemap" plugin 
+SITEMAP = { 'format': 'xml', 'priorities': { 'articles': 1, 'indexes': 0.5, 'pages': 0.5, }, 'changefreqs': { 'articles': 'always', 'indexes': 'hourly', 'pages': 'monthly' } }
