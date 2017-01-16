@@ -1,7 +1,7 @@
 Latin America in Motion: Pitt Latin American Films
 ##################################################
 
-:date: 2017-10-14 22:00
+:date: 2017-01-14 22:00
 :slug: clas_film_festival_spring2017
 :authors: icaoberg
 :category: random
