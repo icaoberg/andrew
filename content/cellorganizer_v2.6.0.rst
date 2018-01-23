@@ -26,11 +26,21 @@ Downloads
 Requirements
 ============
 
-* Matlab 2015b or newer
-* Image Processing Toolbox for Matlab
-* Statistics and Machine Learning Toolbox/Statistics Toolbox
-* SymBiology Toolbox
+* Matlab 2016b or newer
+* Bioinformatics Toolbox
+* Computer Vision System Toolbox
+* Control System Toolbox
 * Curve Fitting Toolbox
+* Image Processing Toolbox
+* Mapping Toolbox
+* Optimization Toolbox
+* Robust Control Toolbox
+* Signal Processing Toolbox
+* Simulink
+* Simulink Design Optimization
+* Statistics and Machine Learning Toolbox
+* System Identification Toolbox
+* Wavelet Toolbox
 
 Compatibility
 =============
