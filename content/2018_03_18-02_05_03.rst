@@ -1,0 +1,15 @@
+I am Spock
+##########
+
+:date: 2018-03-18 02:05:03
+:slug: 2018_03_18-02_05_03
+:authors: icaoberg
+:tags: books
+:category: random
+:summary: Is this book a good read? I wonder.
+
+.. raw:: html
+
+        <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Is it a good read? <a href="https://t.co/zsSKVV0oxS">pic.twitter.com/zsSKVV0oxS</a></p>&mdash; Ivan (@icaoberg) <a href="https://twitter.com/icaoberg/status/975251317496180736?ref_src=twsrc%5Etfw">March 18, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+

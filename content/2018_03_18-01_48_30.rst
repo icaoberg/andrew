@@ -1,0 +1,15 @@
+Frijoles charros from La Palapa
+###############################
+
+:date: 2018-03-18 01:48:30
+:slug: 2018_03_18-01_48_30
+:authors: icaoberg
+:tags: foodie, pittsburgh, la palapa
+:category: random
+:summary: Totally craving some frijoles charros while I program
+
+.. raw:: html
+
+        <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Craving some frijoles charros from <a href="https://twitter.com/LaPalapapgh?ref_src=twsrc%5Etfw">@LaPalapapgh</a> right now <a href="https://t.co/YiXT0x4ICZ">pic.twitter.com/YiXT0x4ICZ</a></p>&mdash; Ivan (@icaoberg) <a href="https://twitter.com/icaoberg/status/975247440805756933?ref_src=twsrc%5Etfw">March 18, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+P.S. Remember to support local businesses like `La Palapa <https://www.lapalapapgh.com/>`_

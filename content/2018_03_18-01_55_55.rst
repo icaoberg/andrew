@@ -1,0 +1,15 @@
+Pork belly tacos from Tres Rios
+###############################
+
+:date: 2018-03-18 01:55:55
+:slug: 2018_03_18-01_55_55
+:authors: icaoberg
+:tags: foodie, pittsburgh, tres rios
+:category: random
+:summary: Also craving some non-traditional tacos
+
+.. raw:: html
+
+        <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pork belly tacos from <a href="https://twitter.com/TresRiosPgh?ref_src=twsrc%5Etfw">@tresriospgh</a> <a href="https://twitter.com/hashtag/notbad?src=hash&amp;ref_src=twsrc%5Etfw">#notbad</a> <a href="https://t.co/Y2txI8rNZM">pic.twitter.com/Y2txI8rNZM</a></p>&mdash; Ivan (@icaoberg) <a href="https://twitter.com/icaoberg/status/975248906253684741?ref_src=twsrc%5Etfw">March 18, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+P.S. Remember to support local businesses like `Tres Rios <http://www.tresriospgh.com/>`_

@@ -1,0 +1,14 @@
+
+Let's Banter!
+#############
+
+:date: 2018-03-18 01:40:10
+:slug: 2018_03_18-01_40_10
+:authors: icaoberg
+:tags: cmu, mobile
+:category: software
+:summary: Banter Beta is a mobile app to connect students
+
+.. raw:: html
+
+        <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Banter Beta is a mobile app designed to help connect international and American students with shared interests. <a href="https://t.co/jRuH3nYR6o">pic.twitter.com/jRuH3nYR6o</a></p>&mdash; Ivan (@icaoberg) <a href="https://twitter.com/icaoberg/status/975245294106546176?ref_src=twsrc%5Etfw">March 18, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
