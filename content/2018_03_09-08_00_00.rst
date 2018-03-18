@@ -1,0 +1,31 @@
+Cell Modeling Workshop 2018
+###########################
+
+:date: 2018-03-09 08:00:00
+:slug: 2018_03_09-08_00_00
+:authors: icaoberg
+:tags: cellorganizer
+:category: mmbios
+:summary: Today is CellOrganizer day at the MMBioS Cell Modeling Workshop
+
+|
+
+.. figure:: {filename}/images/mmbios_logo.png
+    :align: left
+
+* Dates: March 7 - March 9, 2018
+* Location: Allen Institute, Seattle WA 
+
+This `workshop <https://mmbios.org/cmw2018>`_  will cover theory and practice for the design and simulation of cell models focused on diffusion-reaction systems such as neurotransmission, signaling cascades, and other forms of biochemical networks.
+
+During the workshop, participants will  learn how to use the tools developed by MMBioS to create, run, and analyze models of cellular microphysiology and apply them to their own research questions. In particular, the workshop will focus on:
+
+* The latest version of the MCell simulation environment, including new Monte Carlo methods for 3-D simulation of reactions in solution and on arbitrarily shaped biological surfaces.
+
+* Novel tools to construct and simulate rule-based models using the BioNetGen software (Faeder et al., Methods in Molecular Biology, 500:113-167, 2009).
+
+* The CellOrganizer system (Murphy, Methods in Cell Biology 110:179-193, 2012) for creating image-derived models of cell shape and intracellular organization that can be used to compare cell populations and as the basis for cell simulations.
+
+* The newest version of CellBlender, our MCell model creation and visualization framework (Czech et al., Methods in Molecular Biology 500: 237-287, 2009).
+
+This workshop lasts three full days, and attendees are strongly encouraged to bring ideas/data for their own simulation projects. The daily schedule includes theoretical and practical lectures, instructor-guided hands-on tutorials, and opportunities for one-on-one interaction with the instructors on individual project development.

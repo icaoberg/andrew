@@ -1,0 +1,16 @@
+
+docker-compose
+##############
+
+:date: 2018-03-18 00:13:57
+:slug: 2018_03_18-00_13_57
+:authors: icaoberg
+:tags: docker, cellorganizer, galaxy
+:category: software
+:summary: Using docker-compose to solve my problems
+
+.. figure:: {filename}/images/docker-logo.png
+    :align: left
+
+I have been struggling trying to install Galaxy and the CellOrganizer tools in the same container. It seems like `Docker compose <https://docs.docker.com/compose/>`_ will be the solution to my problem. However I need to figure out what is the best way to have the first container talked to the second, since the tools were not created to communicated outside of their environment/workspace.
+
