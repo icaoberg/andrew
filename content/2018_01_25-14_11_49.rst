@@ -1,0 +1,16 @@
+Texting
+################
+
+:date: 2018-01-25 14:11:49
+:slug: 2018_01_25-14_11_49
+:authors: icaoberg
+:tags: bioinformatics
+:category: random
+:summary: The dangers of bioinformations
+
+.. raw:: html
+
+	<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The more you know. <a href="https://t.co/Bv14PRFLGq">pic.twitter.com/Bv14PRFLGq</a></p>&mdash; Jedidiah Carlson (@JedMSP) <a href="https://twitter.com/JedMSP/status/954764030689857536?ref_src=twsrc%5Etfw">January 20, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+

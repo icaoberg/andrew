@@ -1,0 +1,14 @@
+
+Charly García - Chipi Chipi
+###########################
+
+:date: 2018-01-27 22:49:32
+:slug: 2018_01_27-22_49_32
+:authors: icaoberg
+:tags: musica, argentina, charly garcia
+:category: random
+:summary: Mi canción favorita de Charly García
+
+.. youtube:: 8s1sh-CRMXc
+
+P.S. Chipi Chipi (gran idea podremos ir a la escuela)...
