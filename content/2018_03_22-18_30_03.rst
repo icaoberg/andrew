@@ -1,0 +1,15 @@
+Bebe - Ella
+###########
+
+:date: 2018-03-22 18:30:03
+:slug: 2018_03_22-18_30_03
+:authors: icaoberg
+:tags: barrio latino, women
+:category: random
+:summary: Barrio Latino has a special show today
+
+.. raw:: html
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/IhTOKqwXgzQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+P.D. Hoy tenemos un programa especial en Barrio Latino. Espero les guste
