@@ -21,7 +21,7 @@ Release Highlights
 Downloads
 =========
 
-* `CellOrganizer v2.6 <http://cellorganizer.org/Downloads/v2.6/>`_
+* `CellOrganizer v2.6 <http://www.cellorganizer.org/version-2-6-0/>`_
 
 Requirements
 ============
