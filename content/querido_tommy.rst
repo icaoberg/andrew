@@ -7,9 +7,9 @@ Tommy Torres - Querido Tommy
 :category: music
 :summary: "Es que con ella no me salen las palabras..."
 
-.. youtube:: whOneFSflIQ
-    :allowfullscreen: yes
-    :seamless: no
+.. raw:: html
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/CktQxuDkYGg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 | "Es que con ella no me salen las palabras, y quizás
 | Tu pudieras ayudarme, a decirle que yo muero aquí por ella
