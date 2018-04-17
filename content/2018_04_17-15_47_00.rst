@@ -1,0 +1,16 @@
+CellOrganizer Documentation
+###########################
+
+:date: 2018-04-17 15:47:00
+:slug: 2018_04_17-15_47_00
+:authors: icaoberg
+:tags: python, documentation, sphinx
+:category: software
+:summary: Writing docs is fun! #NOT
+
+.. raw:: html
+
+	<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Writing docs for <a href="https://twitter.com/CellOrganizer?ref_src=twsrc%5Etfw">@CellOrganizer</a> with <a href="https://twitter.com/hashtag/Sphinx?src=hash&amp;ref_src=twsrc%5Etfw">#Sphinx</a> is fun! <a href="https://t.co/Ex9a2BQ0AV">pic.twitter.com/Ex9a2BQ0AV</a></p>&mdash; Ivan (@icaoberg) <a href="https://twitter.com/icaoberg/status/986330081160294401?ref_src=twsrc%5Etfw">April 17, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+|
+| P.S. Working on deploying CellOrganizer for Galaxy

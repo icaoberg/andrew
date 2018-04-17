@@ -1,0 +1,16 @@
+Festival Latinoamericano y del Caribe
+#####################################
+
+:date: 2018-04-17 12:00:00
+:slug: 2018_04_17-12_00_00
+:authors: icaoberg
+:tags: clas
+:category: random
+:summary: This festival rocks! :)
+
+.. raw:: html
+
+	<blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr">Este sábado en <a href="https://twitter.com/PittTweet?ref_src=twsrc%5Etfw">@PittTweet</a>, el Festival Latinoamericano y del Caribe organizado por <a href="https://twitter.com/CLASPITT?ref_src=twsrc%5Etfw">@CLASPITT</a>. ¡No se lo pierdan! <a href="https://t.co/7M6knNC8ek">pic.twitter.com/7M6knNC8ek</a></p>&mdash; Ivan (@icaoberg) <a href="https://twitter.com/icaoberg/status/984071073439379457?ref_src=twsrc%5Etfw">April 11, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+|
+| P.S. This festival is a great opporunity to learn about the Latin America community in Pittsburgh.

@@ -1,0 +1,13 @@
+Viewing at Pittsburgh Filmmakers
+################################
+
+:date: 2018-04-11 19:00:00
+:slug: 2018_04_11-19_00_00
+:authors: icaoberg
+:tags: pittsburgh, puerto rico
+:category: random
+:summary: #Pittsburgh stands with #PuertoRico
+
+.. raw:: html
+
+	<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Last week, <a href="https://twitter.com/pghfilmmakers?ref_src=twsrc%5Etfw">@pghfilmmakers</a> hosted a benefit to support <a href="https://twitter.com/hashtag/CMUDietrich?src=hash&amp;ref_src=twsrc%5Etfw">#CMUDietrich</a> student Rosana Guernica and her Puerto Rico relief efforts. Pittsburgh Mayor <a href="https://twitter.com/billpeduto?ref_src=twsrc%5Etfw">@billpeduto</a> posed with Rosana and her team. <a href="https://t.co/M2aDQwsXFk">pic.twitter.com/M2aDQwsXFk</a></p>&mdash; CMU Dietrich College (@CMU_DietrichHSS) <a href="https://twitter.com/CMU_DietrichHSS/status/983403113754316800?ref_src=twsrc%5Etfw">April 9, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
