@@ -16,4 +16,16 @@ git submodule init
 git submodule update
 cd ..
 
+if [ -d pelican_javascript ]; then
+	ln -s $(pwd)/pelican_javascript $(pwd)/pelican-plugins/pelican_javascript
+fi
+
+if [ ! -d content/js ]; then
+	mkdir content/js
+fi 
+
+if [ ! -f github-cards/src/widget.js ]; then
+	ln -s $(pwd)/github-cards/src/widget.js $(pwd)/content/js/widget.js
+fi
+
 deactivate

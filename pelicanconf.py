@@ -37,7 +37,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 STATIC_PATHS = ['extra', 'images', 'pdfs']
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['gallery', 'pelican_gist', 'pelican_youtube', 'sitemap', 'tag_cloud']
+PLUGINS = ['gallery', 'pelican_gist', 'pelican_youtube', 'sitemap', 'tag_cloud', 'pelican_javascript']
 
 GALLERY_PATH = 'images/gallery'
 PHOTO_EXIF_COPYRIGHT_AUTHOR = 'icaoberg AT andrew DOT cmu DOT edu'
