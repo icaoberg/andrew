@@ -10,3 +10,6 @@
 [submodule "pelican_javascript"]
 	path = pelican_javascript
 	url = git@github.com:mortada/pelican_javascript.git
+[submodule "github-cards"]
+	path = github-cards
+	url = git@github.com:lepture/github-cards.git
