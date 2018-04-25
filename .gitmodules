@@ -7,3 +7,6 @@
 [submodule "pelican-embed-tweet"]
 	path = pelican-embed-tweet
 	url = https://github.com/lqez/pelican-embed-tweet.git
+[submodule "pelican_javascript"]
+	path = pelican_javascript
+	url = git@github.com:mortada/pelican_javascript.git
