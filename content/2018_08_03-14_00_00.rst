@@ -1,0 +1,16 @@
+No Agenda with Adam Curry and John C. Dvorak
+############################################
+
+:date: 2018-08-03 14:00:00.rst
+:slug: 2018_08_03-14_00_00.rst
+:authors: icaoberg
+:tags: in the morning
+:category: software
+:summary: ... with Crackpot and Buzzkill
+
+.. raw:: html
+
+	<script src="https://asciinema.org/a/193942.js" id="asciicast-193942" async></script>
+
+|
+| Made a simple script to download their latest episodes.
