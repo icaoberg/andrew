@@ -1,0 +1,15 @@
+simple-trello
+#############
+
+:date: 2018-08-04 00:46:11
+:slug: 2018_08_04-00_46_11
+:authors: icaoberg
+:tags: trello
+:category: programming
+:summary: simple-trello for python
+
+.. raw:: html
+	
+	<img width="50%" src='https://www.dropbox.com/s/dh71m7c0vsgasp8/Screenshot%202018-08-04%2000.39.15.png?raw=1' />
+
+With Ulani and Rita, we built a `simple python package <http://repositories.compbio.cs.cmu.edu/icaoberg/simple-trello>`_ for retrieving information from Trello for posting on Mattermost. So far, it works wonderfully.

@@ -1,0 +1,24 @@
+Kalimba
+#######
+
+:date: 2018-08-04 00:15:43
+:slug: 2018_08_04-00_15_43
+:authors: icaoberg
+:tags: music
+:category: random
+:summary: Today Ulani introduced to the kalimba
+
+
+When I think of Kalimba, I think of the Latinx singer
+
+.. raw:: html
+	
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/MG5Er9LzXjI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+However, it seems the `kalimba <https://en.wikipedia.org/wiki/Mbira>`_ is also a musical instrument. I am so getting one
+
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/kd7KC3PaEaA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+

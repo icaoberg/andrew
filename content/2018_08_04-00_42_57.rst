@@ -1,0 +1,16 @@
+Jsaon Mraz - I'm Yours
+######################
+
+:date: 2018-08-04 00:42:57
+:slug: 2018_08_04-00_42_57
+:authors: icaoberg
+:tags: music, kalimba
+:category: random	
+:summary: A kalimba cover
+
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/auZp6sI7DCo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+P.S. I want to learn this!
+	

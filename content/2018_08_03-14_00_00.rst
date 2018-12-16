@@ -1,7 +1,7 @@
 No Agenda with Adam Curry and John C. Dvorak
 ############################################
 
-:date: 2018-08-03 14:00:00.rst
+:date: 2018-08-03 14:00:00
 :slug: 2018_08_03-14_00_00.rst
 :authors: icaoberg
 :tags: in the morning
@@ -12,5 +12,4 @@ No Agenda with Adam Curry and John C. Dvorak
 
 	<script src="https://asciinema.org/a/193942.js" id="asciicast-193942" async></script>
 
-|
-| Made a simple script to download their latest episodes.
+| Made a `simple script <https://github.com/icaoberg/no-agenda>`_ to download their latest episodes.

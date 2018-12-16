@@ -1,0 +1,15 @@
+Morat - Cuando nadie ve
+########################
+
+:date: 2018-12-15 23:14:35
+:slug: 2018_12_15-23_14_35
+:authors: icaoberg
+:tags: spanish, carnegie library, pittsburgh
+:category: language
+:summary: Next song for Spanish II
+
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/szeA9tvItJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+You can find the TinyCards deck for this song `here <https://tinycards.duolingo.com/decks/JUAhshuF/morat-cuando-nadie-ve>`_.

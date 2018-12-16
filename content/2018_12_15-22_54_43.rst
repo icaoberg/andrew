@@ -1,0 +1,15 @@
+Q.A. testing
+############
+
+:date: 2018-12-15 22:54:43
+:slug: 2018_12_15-22_54_43
+:authors: icaoberg
+:tags: programming
+:category: random
+:summary: Q.A. testing
+
+.. raw:: html
+
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="nl" dir="ltr">QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.</p>&mdash; Bill Sempf (@sempf) <a href="https://twitter.com/sempf/status/514473420277694465?ref_src=twsrc%5Etfw">September 23, 2014</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+P.S. Keep telling the programmers to build more tests...
