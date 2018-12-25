@@ -1,0 +1,15 @@
+Rosana Guernica - Citizen of the Year
+#####################################
+
+:date: 2018-03-04 22:00:00
+:modified: 2018-03-04 22:00:00
+:status: published
+:slug: 2018_03_04-22_00_00
+:authors: icaoberg
+:tags: images, rosana guernica
+:category: random
+:summary: Cake? I never had cake before...
+
+.. raw:: html
+
+	<img width="50%" src="https://www.dropbox.com/s/znz29ldw3me6ajr/20180304_165215.jpg?raw=1" alt="Rosana Guernica - Citizen of the Year"/>

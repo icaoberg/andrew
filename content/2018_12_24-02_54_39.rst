@@ -1,0 +1,17 @@
+Pork belly tacos
+################
+
+:date: 2018-12-24 02:54:39
+:modified: 2018-12-24 02:54:39
+:status: published
+:slug: 2018_12_24-02_54_39
+:authors: icaoberg
+:tags: images
+:category: random
+:summary: Pork belly tacos at Tres Rios
+
+.. raw:: html
+
+	<img width="50%" src="https://www.dropbox.com/s/nybb9f3lt39nujs/20180228_195051.jpg?raw=1" alt="Pork belly tacos at Tres Rios"/>
+
+P.S. Decent non-traditional tacos at `Tres Rios <https://www.yelp.com/biz/tres-rios-pittsburgh-2>`_

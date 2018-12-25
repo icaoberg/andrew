@@ -1,0 +1,17 @@
+Beef empanadas
+##############
+
+:date: 2018-12-24 23:25:48
+:modified: 2018-12-24 23:25:48
+:status: published
+:slug: 2018_12_24-23_25_48
+:authors: icaoberg
+:tags: images, argentina, empanadas, food
+:category: random
+:summary: I made empanadas for the Holiday party
+
+.. raw:: html
+
+	<img width="50%" src="https://www.dropbox.com/s/4mfeokxaaeu9m17/20181214_172641.jpg?raw=1" alt="Beef empanadas"/>
+
+P.S. No sean envidiosos...

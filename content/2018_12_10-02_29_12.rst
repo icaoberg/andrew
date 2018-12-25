@@ -1,0 +1,17 @@
+Sancocho
+########
+
+:date: 2018-12-10 02:29:12
+:modified: 2018-12-10 02:29:12
+:status: published
+:slug: 2018_12_10-02_29_12
+:authors: icaoberg
+:tags: images
+:category: random
+:summary: Sancocho at Colombian Spot
+
+.. raw:: html
+
+	<img width="50%" src="https://www.dropbox.com/s/y8aty06prbbcvad/20180128_141354.jpg?raw=1" alt="Sancocho at Colombian Spot"/>
+
+P.S. `Colombian Spot <https://www.yelp.com/biz/the-colombian-spot-pittsburgh>`_ is an amazing place to get sancocho

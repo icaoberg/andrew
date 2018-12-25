@@ -1,0 +1,15 @@
+Pickled eggs
+############
+
+:date: 2018-12-24 02:23:36
+:modified: 2018-12-24 02:23:36
+:status: published
+:slug: 2018_12_24-02_23_36
+:authors: icaoberg
+:tags: images
+:category: random
+:summary: Lately I have been pickling a lot of food
+
+.. raw:: html
+
+	<img width="50%" src="https://www.dropbox.com/s/x69mnq10uybbna1/20180121_233426.jpg?raw=1" alt="I love pickled eggs"/>

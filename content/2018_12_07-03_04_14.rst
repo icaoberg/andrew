@@ -1,0 +1,17 @@
+Frijolitos charros
+##################
+
+:date: 2018-12-07 03:04:14
+:modified: 2018-12-07 03:04:14
+:status: published
+:slug: 2018_12_07-03_04_14
+:authors: icaoberg
+:tags: images
+:category: random
+:summary: Frijolitos charros at La Palapa
+
+.. raw:: html
+
+	<img src="https://www.dropbox.com/s/mrcidw9i6jmwc9t/20180302_122336.jpg?raw=1" alt="Frijolitos charros at La Palapa"/>
+
+P.S. `La Palapa <https://www.yelp.com/biz/la-palapa-traditional-mexican-kitchen-pittsburgh?osq=lapalapa>`_ rocks. 'nuff said.
