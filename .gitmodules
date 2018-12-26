@@ -16,3 +16,6 @@
 [submodule "pelican-themes"]
 	path = pelican-themes
 	url = git@github.com:getpelican/pelican-themes.git
+[submodule "Flex"]
+	path = Flex
+	url = git@github.com:icaoberg/Flex.git
