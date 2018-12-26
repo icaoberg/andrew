@@ -13,3 +13,6 @@
 [submodule "github-cards"]
 	path = github-cards
 	url = git@github.com:lepture/github-cards.git
+[submodule "pelican-themes"]
+	path = pelican-themes
+	url = git@github.com:getpelican/pelican-themes.git
