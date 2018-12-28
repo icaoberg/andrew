@@ -1,0 +1,15 @@
+Spanish II Song List
+####################
+
+:date: 2018-12-28 02:57:59
+:slug: 2018_12_28-02_58_00
+:authors: icaoberg
+:tags: spanish, carnegie library
+:category: language
+:summary: Playlist for Spring 2019
+
+The music is ready!
+
+.. raw:: html
+
+	<iframe src="https://open.spotify.com/playlist/7anbhy8wUe38PXmq3RtZhT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
