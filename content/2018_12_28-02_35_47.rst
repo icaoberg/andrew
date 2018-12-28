@@ -1,0 +1,17 @@
+PC versus Mac
+#############
+
+:date: 2018-12-28 02:35:47
+:slug: 2018_12_28-02_35_47
+:authors: icaoberg
+:tags: macosx, windows, pc
+:category: random
+:summary: Macs are better... :(
+
+I feel kind of sad. My first desktop was a PC running Windows 95 and for many years I kept using Windows at home.
+
+Today, my Windows PC died. I have a Mac at home. I considered buying or rebuilding the machine with spare parts because I have an old laser printer which, according to the docs, only works on Windows.
+
+As I was struggling to come with a feasible solution that would appease my zero-waste soul, I decided to connect the printer to the Mac. I mean, it took me like 2 hours to install the same printer on Windows (it is a super old printer), I figured if I spent less than 3 hours installing it would worth it.
+
+MacOSX recognized it inmediately and printed what I needed to print. No more Windows at home. It is, what it is.
