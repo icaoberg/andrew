@@ -1,0 +1,15 @@
+singularity-cowsay
+##################
+
+:date: 2018-12-12 04:44:56
+:slug: 2018_12_12-04_44_56
+:authors: icaoberg
+:tags: singularity
+:category: programming
+:summary: Attempting to build a simple container for docs
+
+P.S. Bacon pancaaaaaaaaaaaaaaaaaakes
+
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/PxELm6xdwXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

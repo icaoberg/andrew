@@ -10,7 +10,7 @@ python-bst
 
 .. raw:: html
 
-	<a href="https://github.com/icaoberg/python-bst"><img width="50%" src="https://raw.githubusercontent.com/icaoberg/python-bst/master/images/bst.png" /></a>
+	<a href="https://github.com/icaoberg/python-bst"><img width=75%" src="https://raw.githubusercontent.com/icaoberg/python-bst/master/images/bst.png" /></a><br>
 
 For some reason I decided to start reading `Cracking the Coding Interview <https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X>`_. It suggests you know certain algorithms and data structures by heart. Now, I do remember all of these, however I have not implemented most of these in modern times using 'modern' languages.
 

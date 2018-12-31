@@ -8,8 +8,14 @@ Spanish II Song List
 :category: language
 :summary: Playlist for Spring 2019
 
-The music is ready!
+The music is ready! The songs for this cycle are
 
-.. raw:: html
-
-	<iframe src="https://open.spotify.com/playlist/7anbhy8wUe38PXmq3RtZhT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+* HA-ASH - Eso no va a Suceder
+* Diego Torres y Carlos Vives - Un Poquito
+* Joey Montana - La Promesa
+* HA-ASH - Perdón, Perdón
+* Miranda - Perfecta
+* Alejandro Fernández - Sé que te Duele
+* Sebastián Yatra - No hay Nadie Más
+* Julieta Venegas - Me Voy
+* Juan Luis Guerra y 4.40 - Muchachita Linda
