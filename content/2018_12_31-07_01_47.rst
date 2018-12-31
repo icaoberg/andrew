@@ -1,0 +1,17 @@
+python-bst
+##########
+
+:date: 2018-12-31 07:01:47
+:slug: 2018_12_31-07_01_47
+:authors: icaoberg
+:tags: python, data structures
+:category: programming
+:summary: A naive BST implementation in Python
+
+.. raw:: html
+
+	<a href="https://github.com/icaoberg/python-bst"><img width="50%" src="https://raw.githubusercontent.com/icaoberg/python-bst/master/images/bst.png" /></a>
+
+For some reason I decided to start reading `Cracking the Coding Interview <https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X>`_. It suggests you know certain algorithms and data structures by heart. Now, I do remember all of these, however I have not implemented most of these in modern times using 'modern' languages.
+
+So here it is my first try at implementing a `binary search tree <https://en.wikipedia.org/wiki/Binary_search_tree>`_ in Python. Enjoy.
