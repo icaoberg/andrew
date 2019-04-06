@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'icaoberg'
-SITENAME = u'icaoberg AT scs cmu edu'
-SITEURL = 'http://www.scs.cmu.edu/~icaoberg'
+SITENAME = u'icaoberg AT cbd cmu edu'
+SITEURL = 'http://www.andrew.cmu.edu/~icaoberg'
 
 PATH = 'content'
 
@@ -25,7 +25,7 @@ SOCIAL = (('github', 'http://github.com/icaoberg'),
           ('linkedin', 'https://www.linkedin.com/in/icaoberg'),
           ('facebook', 'https://www.facebook.com/icaoberg'))
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 25
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -48,7 +48,7 @@ FIGURE_NUMBERS = True
 
 TWITTER_USERNAME = 'icaoberg'
 
-COPYRIGHT = 'Copyright (c) 2006-2018 icaoberg AT cmu DOT edu'
+COPYRIGHT = 'Copyright (c) 2006-2019 icaoberg AT cbd cmu DOT edu'
 
 #FEED_ALL_RSS = 'feeds/all.rss.xml'
 #CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
