@@ -1,12 +1,12 @@
 #!/bin/bash
 
-virtualenv --system-site-packages .
+python3 -m venv .
 source ./bin/activate
 
-pip install -I ipython pelican tabulate grid
-pip install -U beautifulsoup4
-pip install pelican-youtube
-pip install pelican-gist
+pip3 install -I ipython pelican tabulate grid
+pip3 install -U beautifulsoup4
+pip3 install pelican-youtube
+pip3 install pelican-gist
 
 git submodule init
 git submodule update
