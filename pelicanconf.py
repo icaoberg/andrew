@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'icaoberg'
 SITENAME = u'icaoberg AT cbd cmu edu'
-SITEURL = 'http://www.andrew.cmu.edu/~icaoberg'
+SITEURL = 'linus.cbd.cs.cmu.edu'
 
 PATH = 'content'
 
@@ -21,7 +21,7 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (('github', 'http://github.com/icaoberg'),
-	  ('twitter', 'http://twitter.com/icaoberg'),
+	  ('twitter', 'https://twitter.com/justahappygeek'),
           ('linkedin', 'https://www.linkedin.com/in/icaoberg'),
           ('facebook', 'https://www.facebook.com/icaoberg'))
 
@@ -40,20 +40,20 @@ PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['gallery', 'pelican_gist', 'pelican_youtube', 'sitemap', 'tag_cloud']
 
 GALLERY_PATH = 'images/gallery'
-PHOTO_EXIF_COPYRIGHT_AUTHOR = 'icaoberg AT andrew DOT cmu DOT edu'
+PHOTO_EXIF_COPYRIGHT_AUTHOR = 'icaoberg AT cmu DOT edu'
 PHOTO_EXIF_COPYRIGHT = 'COPYRIGHT'
 
 RESPONSIVE_IMAGES = True
 FIGURE_NUMBERS = True
 
-TWITTER_USERNAME = 'icaoberg'
+TWITTER_USERNAME = 'justahappygeek'
 
-COPYRIGHT = 'Copyright (c) 2006-2019 icaoberg AT cbd cmu DOT edu'
+COPYRIGHT = 'Copyright (c) 2006-2019 icaoberg'
 
 #FEED_ALL_RSS = 'feeds/all.rss.xml'
 #CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
-SITESUBTITLES = ('school of computer science', 'computational biology')
+SITESUBTITLES = ('computational biology','')
 
 # Configuration for the "sitemap" plugin 
 SITEMAP = { 'format': 'xml', 'priorities': { 'articles': 1, 'indexes': 0.5, 'pages': 0.5, }, 'changefreqs': { 'articles': 'always', 'indexes': 'hourly', 'pages': 'monthly' } }
