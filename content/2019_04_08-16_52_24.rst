@@ -1,0 +1,15 @@
+CellOrganizer v2.8.0 alpha
+###########################
+
+:date: 2019-04-08 16:52:24
+:modified: 2019-04-08 16:52:24
+:status: published
+:slug: 2019_04_08-16_52_24
+:authors: icaoberg
+:tags: software, open source
+:category: cellorganizer
+:summary: Very close to release date
+
+I am so happy with the this release. So much work to get this finished. The effort of the full time programmers as well as the undergrad student programmers can be seen in this product.
+
+Very proud. 	
