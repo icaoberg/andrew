@@ -1,0 +1,16 @@
+Arepas at Slippery Rock University
+##################################
+
+:date: 2019-04-06 22:53:23
+:modified: 2019-04-06 22:53:23
+:status: published
+:slug: 2019_04_06-22_53_23
+:authors: icaoberg
+:tags: food, slipperyrock
+:category: latinx
+:summary: Actividad beneficio en Slippery Rock University
+
+.. raw:: html
+
+	<blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr">En <a href="https://twitter.com/slipperyrocku?ref_src=twsrc%5Etfw">@slipperyrocku</a> el lunes. ¡No se lo pierdan! <a href="https://t.co/elTtCm1wu2">pic.twitter.com/elTtCm1wu2</a></p>&mdash; Barrio Latino (@BarrioWRCT883) <a href="https://twitter.com/BarrioWRCT883/status/1114310221365678080?ref_src=twsrc%5Etfw">April 5, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+

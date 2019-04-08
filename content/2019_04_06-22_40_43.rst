@@ -1,0 +1,18 @@
+Latin American and Caribbean Festival
+#####################################
+
+:date: 2019-04-06 22:40:43
+:modified: 2019-04-06 22:40:43
+:status: published
+:slug: 2019_04_06-22_40_43
+:authors: icaoberg
+:tags: clas, festival
+:category: latinx
+:summary: No se pierdan el festival el sabado que viene
+
+.. raw:: html
+	
+	<blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr">No se pierdan la semana que viene el Festival de <a href="https://twitter.com/CLASPITT?ref_src=twsrc%5Etfw">@CLASPITT</a> en la <a href="https://twitter.com/PittTweet?ref_src=twsrc%5Etfw">@PittTweet</a> ¡Nos vemos! <a href="https://t.co/Cwa9o56LaT">pic.twitter.com/Cwa9o56LaT</a></p>&mdash; Barrio Latino (@BarrioWRCT883) <a href="https://twitter.com/BarrioWRCT883/status/1114719415826878464?ref_src=twsrc%5Etfw">April 7, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+P.S. No se pierdan la semana que viene el festival Latinoamericano organizado por el Center for Latin American Studies
+
