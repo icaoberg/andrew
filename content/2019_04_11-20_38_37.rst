@@ -1,0 +1,17 @@
+CellOrganizer for Galaxy
+########################
+
+:date: 2019-04-11 20:38:37
+:modified: 2019-04-11 20:38:37
+:status: published
+:slug: 2019_04_11-20_38_37
+:authors: icaoberg
+:tags: cellorganizer
+:category: programming
+:summary: Very close to release date...
+
+.. raw:: html
+
+     <div class="github-card" data-github="murphygroup/cellorganizer-galaxy-tools" data-width="400" data-height="" data-theme="default"></div><script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+	
+We are so close to release date. The final details are important.

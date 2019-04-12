@@ -1,0 +1,17 @@
+Pittsburgh has the nation's most highly educated immigrants
+###########################################################
+
+:date: 2019-04-11 20:23:45
+:modified: 2019-04-11 20:23:45
+:status: published
+:slug: 2019_04_11-20_23_45
+:authors: icaoberg
+:tags: immigrants, news
+:category: latinx
+:summary: True story, bro...
+
+.. raw:: html
+
+	<a href="https://www.bizjournals.com/pittsburgh/news/2019/03/08/pittsburgh-has-the-nations-most-highly-educated.html"><img src="http://media.bizj.us/view/img/10998933/cathedralwide*304xx1647-1098-201-0.png" /></a>
+
+"No city in the United States has a greater percentage of foreign-born residents with at least a bachelor's degree than Pittsburgh does, according to a recent study conducted by the University of Pittsburgh."

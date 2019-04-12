@@ -1,0 +1,17 @@
+Dealing with Docker
+###################
+
+:date: 2019-04-12 15:48:09
+:modified: 2019-04-12 15:48:09
+:status: published
+:slug: 2019_04_12-15_48_09
+:authors: icaoberg
+:tags: docker
+:category: programming
+:summary: Oh noes!
+
+.. raw:: html
+
+	<img src="https://1000logos.net/wp-content/uploads/2017/07/Docker-Logo.png" width="50%" />
+
+I love Docker but there are days that I just hate it. Today, I hate it. LOL.

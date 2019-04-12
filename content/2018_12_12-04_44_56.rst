@@ -8,6 +8,12 @@ singularity-cowsay
 :category: programming
 :summary: Attempting to build a simple container for docs
 
+.. raw:: html
+
+       <div class="github-card" data-github="icaoberg/singularity-cowsay" data-width="400" data-height="153" data-theme="default"></div><script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
+Spent some time trying to create a simple recipe. Why not cowsay?
+
 P.S. Bacon pancaaaaaaaaaaaaaaaaaakes
 
 .. raw:: html
