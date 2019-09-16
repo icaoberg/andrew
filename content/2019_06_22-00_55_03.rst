@@ -1,0 +1,15 @@
+Announcing GitHub Sponsors: a new way to contribute to open source
+##################################################################
+
+:date: 2019-06-22 00:55:03
+:modified: 2019-06-22 00:55:03
+:status: published
+:slug: 2019_06_22-00_55_03
+:authors: icaoberg
+:tags: open source, github
+:category: programming
+:summary: A new way top contribute
+
+.. raw:: html
+
+   	<a href="https://github.blog/2019-05-23-announcing-github-sponsors-a-new-way-to-contribute-to-open-source/"><img src="http://www.7daysofhappiness.org/wp-content/uploads/2019/06/mona-heart-featured-1.png" /></a>

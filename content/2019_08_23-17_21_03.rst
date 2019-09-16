@@ -1,0 +1,14 @@
+The beginning of a new semester
+###############################
+
+:date: 2019-08-23 17:21:03
+:modified: 2019-08-23 17:21:03
+:status: published
+:slug: 2019_08_23-17_21_03
+:authors: icaoberg
+:tags: cmu
+:category: random
+:summary: Fall 2019 us about to start
+
+It is the beginning of a new semester. The programmers are coming back. Yeah!
+

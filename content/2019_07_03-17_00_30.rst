@@ -1,0 +1,15 @@
+HackerRank
+##########
+
+:date: 2019-07-03 17:00:30
+:modified: 2019-07-03 17:00:30
+:status: published
+:slug: 2019_07_03-17_00_30
+:authors: icaoberg
+:tags: hackerrank, practice
+:category: programming
+:summary: Coding practice
+
+Seems like all the kids are practicing while learning how to code. Must be difficult for the younger generations since the market looks saturated.
+
+

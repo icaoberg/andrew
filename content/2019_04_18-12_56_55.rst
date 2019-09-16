@@ -1,0 +1,20 @@
+Deploying Jenkins in Ubuntu 18.04
+#################################
+
+:date: 2019-04-18 12:56:55
+:modified: 2019-04-18 12:56:55
+:status: published
+:slug: 2019_04_18-12_56_55
+:authors: icaoberg
+:tags: technology
+:category: random
+:summary: For science!
+
+.. raw:: html
+
+	<img src="https://wiki.jenkins.io/download/attachments/2916393/logo-title.png?version=1&modificationDate=1302753947000&api=v2" />
+
+Just installed Jenkins in Ubuntu 18.04. I have to be honest, the process was simple and straight forward. Custom configuration will be a pain, but it always is.
+
+Nevertheless, I am happy about this.
+	
